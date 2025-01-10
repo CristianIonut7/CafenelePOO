@@ -1,0 +1,17 @@
+oras,nume,functie,ora_inceput,ora_sfarsit,tarif
+Bucuresti,Popescu Ion,Barista,8,16,30.0
+Bucuresti,Ionescu Ana,Manager,9,17,5000.0
+Bucuresti,Marin Vasile,Ospatar,10,18,25.0
+Cluj,Andrei Mihai,Barista,7,15,28.0
+Cluj,Constantin Maria,Manager,10,18,5200.0
+Cluj,Alexandra Radu,Ospatar,12,20,26.0
+Brasov,Simion Andrei,Barista,6,14,29.0
+Brasov,Cristina Dumitrescu,Manager,9,17,5100.0
+Craiova,Ioana Pop,Barista,8,16,27.0
+Craiova,Vlad Stoica,Manager,9,17,4800.0
+Craiova,Marius Dragomir,Ospatar,14,22,23.0
+Severin,Dan Neagu,Manager,10,18,4950.0
+Severin,Elena Petrescu,Ospatar,15,23,25.0
+Brasov,George Mihai,Ospatar,22,21,24
+Severin,Carmen Tudor,Barista,9,17,10
+Brasov,Popescu Vlad,Barista,10,18,10
