@@ -12,11 +12,11 @@ all: $(TARGET)
 
 $(TARGET): $(OBJ)
 	$(CC) $(CFLAGS) -o $(TARGET) $(OBJ)
-	rm -f $(OBJ)
+	del /F $(OBJ)
 
 %.o: %.cpp
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f $(OBJ) $(TARGET)
+	del /F $(OBJ) $(TARGET)
 
